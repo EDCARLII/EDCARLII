@@ -1,0 +1,5 @@
+- 👋 Hi, I’m ED CARL
+- 👀 I’m interested in Python, Java script, ...
+- 🌱 I’m currently learning Python
+- 📫 How to reach me edcarl_dev@proton.me
+- follow me on Instagram.(edcarl_dev)
